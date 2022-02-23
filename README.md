@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dbizland
-- 👀 I’m interested in filmmaking. 
+- 👋 Hi, I’m @BizCoCoding
+- 👀 I’m interested in photography. 
 - 🌱 I’m currently learning Hitfilm Pro 
 - 💞️ I’m looking to collaborate on a FPS increaser
-- 📫 How to reach me: thunkablebiz@gmail.com
+- 📫 How to reach me:
 
 <!---
 dbizland/dbizland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

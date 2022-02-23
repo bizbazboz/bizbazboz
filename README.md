@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **film and photography or stuff to do with Python.**
 
-- 📫 How to reach me: **bizcodingcompany@gmail.com**
+- 📫 How to reach me: dbiz#3940 on discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

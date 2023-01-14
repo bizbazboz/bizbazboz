@@ -3,22 +3,22 @@
 </div>  
   
 
-### <div align="center">I'm Daniel, a student developer 👨‍💻 coding in London since 2019 🚀</div>  
+### <div align="center">We're CSCyber, a group of student developers 👨‍💻 coding in London since 2019 🚀</div>  
   
 
-- 🌱 I’m currently learning Javascript and HTML  
+- 🌱 We're currently learning Javascript and HTML  
   
 
-- ❓ Ask me about anything related to Python Cryptography and Kali Linux  
+- ❓ Ask us about anything related to Python Cryptography and Kali Linux  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: We use tabs over spaces  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Our Skill Set  
 <table><tr><td valign="top" width="33%">
 
 

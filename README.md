@@ -6,19 +6,18 @@
 ### <div align="center">We're CSCyber, a group of student developers 👨‍💻 coding in London since 2019 🚀</div>  
   
 
-- 🌱 We're currently learning Javascript and HTML  
+- 🌱 I'm currently learning Javascript and HTML  
   
 
-- ❓ Ask us about anything related to Python Cryptography and Kali Linux  
-  
+- ❓ Ask me about anything related to Python.
 
-- ⚡ Fun fact: We use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
 
 
-## Our Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 

@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">We're CSCyber, a group of student developers 👨‍💻 coding in London since 2019 🚀</div>  
+### <div align="center">I'm Daniel, a student developers 👨‍💻 coding in London since 2019 🚀</div>  
   
 
 - 🌱 I'm currently learning Javascript and HTML  

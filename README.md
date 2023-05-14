@@ -7,11 +7,9 @@
   
 
 - 🌱 I'm currently learning Javascript and HTML  
-  
 
 - ❓ Ask me about anything related to Python.
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  

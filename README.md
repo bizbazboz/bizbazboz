@@ -6,9 +6,9 @@
 ### <div align="center">I'm Biz, a student developer 👨‍💻 coding in London since 2019 🚀</div>  
   
 
-- 🌱 I'm currently learning Javascript and HTML  
+- 🌱 I'm currently learning Flutter and Dart  
 
-- ❓ Ask me about anything related to Python.
+- ❓ Ask me about anything related to Python or Flask.
 
   
 
